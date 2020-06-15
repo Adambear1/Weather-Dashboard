@@ -1,6 +1,6 @@
 # Weather-Dashboard.io
 
-## LINK TO DEPLOYED VERSION --> https://adambear1.github.io/Weather-Dashboard.io/
+## LINK TO DEPLOYED VERSION --> https://adambear1.github.io/Weather-Dashboard/
 
 
 
